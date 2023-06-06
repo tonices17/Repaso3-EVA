@@ -1,0 +1,13 @@
+1; Calle 10 # 5-51; Bogotá D.C; arriendo;
+2; Avenida 19 No. 98-03, sexto piso, Edificio Torre 100; Bogotá D.C; venta;
+3; Calle 53 No 10-60/46, Piso 2.; Bogotá D.C; arriendo;
+4; Avenida Calle 26 No 59-51 Edificio Argos - Torre 3 Piso 4; Bogotá D.C; venta;
+5; Calle 9 # 9 – 62, Leticia, Barrio Centro; Bogotá D.C - Cundinamarca; arriendo;
+6; Calle 19 # 80A-40. Barrio Belén La Nubia; Amazonas - Leticia; venta;
+7; Carrera 21 # 17 -63; Antioquia - Medellín; arriendo;
+8; Carrera 42 # 54-77 Barrio El Recreo; Arauca - Arauca; venta;
+9; Calle 100 # 11B-27 Bogotá; Atlántico - Barranquilla; arriendo;
+10; Carrera 20 B # 29-18. Barrio Pie de la Popa.; Bogotá D.C - Cundinamarca; venta;
+11; Transversal 9 a No. 29 - 29 Barrio Maldonado ; Bolívar - Cartagena; arriendo;
+12; Calle 53 # 25A-35; Boyacá - Tunja; venta;
+13; Carrera 20 B # 29-18. Barrio Pie de la Popa.; Caldas - Manizales; arriendo;

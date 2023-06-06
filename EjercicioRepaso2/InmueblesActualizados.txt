@@ -1,0 +1,14 @@
+Id: 1; dirección:  Calle 10 # 5-51; ciudad:  Bogotá D.C; tipo:  arriendo.
+Id: 2; dirección:  Avenida 19 No. 98-03, sexto piso, Edificio Torre 100; ciudad:  Bogotá D.C; tipo:  venta.
+Id: 3; dirección:  Calle 53 No 10-60/46, Piso 2.; ciudad:  Bogotá D.C; tipo:  arriendo.
+Id: 4; dirección:  Avenida Calle 26 No 59-51 Edificio Argos - Torre 3 Piso 4; ciudad:  Bogotá D.C; tipo:  venta.
+Id: 5; dirección:  Calle 9 # 9 – 62, Leticia, Barrio Centro; ciudad:  Bogotá D.C - Cundinamarca; tipo:  arriendo.
+Id: 6; dirección:  Calle 19 # 80A-40. Barrio Belén La Nubia; ciudad:  Amazonas - Leticia; tipo:  venta.
+Id: 7; dirección:  Carrera 21 # 17 -63; ciudad:  Antioquia - Medellín; tipo:  arriendo.
+Id: 8; dirección:  Carrera 42 # 54-77 Barrio El Recreo; ciudad:  Arauca - Arauca; tipo:  venta.
+Id: 9; dirección:  Calle 100 # 11B-27 Bogotá; ciudad:  Atlántico - Barranquilla; tipo:  arriendo.
+Id: 10; dirección:  Carrera 20 B # 29-18. Barrio Pie de la Popa.; ciudad:  Bogotá D.C - Cundinamarca; tipo:  venta.
+Id: 11; dirección:  Transversal 9 a No. 29 - 29 Barrio Maldonado ; ciudad:  Bolívar - Cartagena; tipo:  arriendo.
+Id: 12; dirección:  Calle 53 # 25A-35; ciudad:  Boyacá - Tunja; tipo:  venta.
+Id: 13; dirección:  Carrera 20 B # 29-18. Barrio Pie de la Popa.; ciudad:  Caldas - Manizales; tipo:  arriendo.
+Id: 14; dirección: C/ Capitán Baltasar Tristany N71; ciudad: Elche; tipo: Venta.
